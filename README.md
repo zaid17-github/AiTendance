@@ -34,3 +34,8 @@ An AI-powered attendance management system using facial recognition technology t
 
 ### Attendance Report in Excel
 ![Attendance Report](attendance_report_excel.jpg)
+
+## 🎥 Project Demonstration
+
+▶️ YouTube Demo:
+https://youtu.be/7rqXCEWxbDk?si=3beMrCZsPkxD4q1E
