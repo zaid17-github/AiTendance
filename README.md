@@ -27,10 +27,10 @@ An AI-powered attendance management system using facial recognition technology t
 ## Screenshots
 
 ### Home Dashboard
-![Home Dashboard](Home_Dashboard.png)
+![Home Dashboard](Home_Dashboard.jpg)
 
 ### Live Face Scanning
-![Live Face Scanning](live_face_scanning.png)
+![Live Face Scanning](live_face_scanning.jpg)
 
 ### Attendance Report in Excel
-![Attendance Report](attendance_report_excel.png)
+![Attendance Report](attendance_report_excel.jpg)
